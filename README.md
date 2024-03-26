@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ---
 ### :woman_technologist: About Me :
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aurorapalmanieto/)
+- :telescope: I’m working as a Cloud Consultant and contributing to IaC projects when I have time.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aurorapalmanieto/)
 ---
 ### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraPalma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
