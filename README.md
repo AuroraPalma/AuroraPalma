@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNoZXQzcGgwNmV3cjVwdGR1Y2NhcjhzcDQwcnU1Z2F0ZG82N3l4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEzcnZnMnB4bmx6cnRxNmNhZnk1NnJtdnc5dGRoMzlhb3R6cHhjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BtzdPGn2uKk1kCvMAM/giphy-downsized-large.gif" width="480"/>
 </div>
 
 </div>
