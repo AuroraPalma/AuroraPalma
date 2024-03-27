@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="480"/>
+  <img src="https://giphy.com/embed/9PhdJO4CMfyfXDCnko" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-9PhdJO4CMfyfXDCnko">via GIPHY</a></p>"
 </div>
 
 </div>
@@ -45,4 +45,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuroraPalma&theme=github_dark" alt="AuroraPalma's GitHub Stats"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraPalma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraPalma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
