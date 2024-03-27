@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/embed/9PhdJO4CMfyfXDCnko](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNoZXQzcGgwNmV3cjVwdGR1Y2NhcjhzcDQwcnU1Z2F0ZG82N3l4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNoZXQzcGgwNmV3cjVwdGR1Y2NhcjhzcDQwcnU1Z2F0ZG82N3l4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif" width="100"/>
 </div>
 
 </div>
@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuroraPalma&theme=github_dark" alt="AuroraPalma's GitHub Stats"/>
+    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AuroraPalma&theme=github_dark" alt="AuroraPalma's GitHub Stats"/>
+    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AuroraPalma&theme=github_dark" alt="AuroraPalma's GitHub Stats"/>
 </div>
 
-<div align="center">
-   <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraPalma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/>
-</div>
 
