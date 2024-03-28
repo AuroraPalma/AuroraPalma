@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Cloud Consultant specializing in IaC and Microsoft Azure solutions architecture. I enjoy travelling around the world with a good coffee and book, hiking and designing digital collage in my free time.</p>
+    <p>I'm a Cloud Consultant specializing in IaC and Microsoft Azure solutions architecture. I enjoy travelling around the world with a good coffee and a book, hiking and designing digital collage in my free time.</p>
 </div>
 
 <div id="header" align="center">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 </div>
 <h2 align="center" class="section-heading">Cloud Technologies and programing languages</h2>
-<p>In my career I have been involved collaborating with developers, administrators, security engineers, and data engineers to implement solutions on Azure.</p>
+<p>In my career I have been collaborating with developers, administrators, security engineers and data engineers to implement solutions on Azure.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Bicep-4285F4?style=for-the-badge&logo=bicep&logoColor=white" alt="Bicep"/>
